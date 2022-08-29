@@ -1,2 +1,2 @@
-# promisesExample
-Test code to store promise Examples.
+# asyncAwait
+code example of async Await function with Node.js 

@@ -1,2 +1,2 @@
-# callback-callbackhellExample
-This repo shows code examples of CallbackHell.
+# promisesExample
+Test code to store promise Examples.

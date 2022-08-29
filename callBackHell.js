@@ -1,4 +1,4 @@
-//Making a callback through moduralizationç
+//Making a callback through moduralization
 
 function hola(nombre, callback){
     setTimeout( function() {
